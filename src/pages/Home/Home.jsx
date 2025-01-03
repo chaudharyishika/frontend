@@ -63,7 +63,7 @@ function Home() {
   };
 
   return (
-    <div className="bg-gray-100 min-h-screen pt-[700px]  mt-[68rem]">
+    <div className="bg-gray-100 min-h-screen lg:pt-[700px]  mt-[68rem]">
       <div className="container mx-auto px-4">
         <h1 className="text-4xl font-bold text-center text-indigo-600 mb-8">
           Welcome to Our Tour Packages

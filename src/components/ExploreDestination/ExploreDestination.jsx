@@ -16,11 +16,8 @@ function ExploreDestination() {
   };
 
   return (
-    <div className="bg-gray-100 pt-[800px] sm:pt-[700px] mt-[60rem]">
+    <div className="bg-gray-100 lg:pt-[800px]  mt-[60rem]">
       {/* Header Section */}
-      <div className="bg-cover bg-center h-[40vh] flex items-center justify-center bg-[url('../../assets/destination-banner.jpg')]">
-        <h1 className="text-white text-4xl font-bold">Explore Our Destinations</h1>
-      </div>
 
       {/* Destination List Section */}
       <div className="container mx-auto px-4 py-12">

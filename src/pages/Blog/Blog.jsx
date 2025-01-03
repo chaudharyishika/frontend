@@ -90,7 +90,7 @@ function Blog() {
           ))}
         </div>
       </div>
-      <Footer/>
+     
     </div>
   );
 }
