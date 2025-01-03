@@ -200,7 +200,7 @@ function Home() {
         </div>
         <ReviewSection/>
       </div>
-      <Footer/>
+      
     </div>
   );
 }

@@ -152,7 +152,7 @@ function ActivityDisplay() {
           </div>
         </div>
       </section>
-      <Footer />
+     
     </div>
   );
 }

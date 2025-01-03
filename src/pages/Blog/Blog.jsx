@@ -52,7 +52,7 @@ function Blog() {
   ];
 
   return (
-    <div className="bg-gray-100 py-12 pt-[100px] sm:pt-[50px] pb-5  h-[80vh]">
+    <div className="bg-gray-100 py-12 lg:pt-[1000px] sm:pt-[50px] pb-5 ">
       <div className="container mx-auto px-4">
         <h1 className="text-4xl font-bold text-center text-indigo-600 mb-8">
           Travel Blog

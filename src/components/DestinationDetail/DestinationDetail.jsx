@@ -27,7 +27,7 @@ function DestinationDetail() {
   }
 
   return (
-    <div className="bg-gray-100 min-h-screen pt-[1000px] md:pt-[1000px] sm:pt-[1000px]">
+    <div className="bg-gray-100 min-h-screen lg:pt-[1500px] md:pt-[1000px] sm:pt-[1000px]">
       {/* Header Section */}
       <div className="relative">
         <img

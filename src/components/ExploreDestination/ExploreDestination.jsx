@@ -81,7 +81,6 @@ function ExploreDestination() {
         </div>
       )}
 
-      <Footer />
     </div>
   );
 }

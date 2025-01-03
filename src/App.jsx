@@ -12,6 +12,7 @@ import Dashboard from "./pages/Dashbaord/Dashboard";
 import Form from "./pages/Dashbaord/Form";
 import TotalUsers from "./pages/Dashbaord/User";
 import DestinationDetail from "./components/DestinationDetail/DestinationDetail";
+import Footer from "./components/Footer/Footer";
 
 function App() {
   return (
@@ -33,6 +34,7 @@ function App() {
           <Route path="/admin/totalusers" element={<TotalUsers />} />
         </Route>
       </Routes>
+      <Footer/>
     </div>
   );
 }
