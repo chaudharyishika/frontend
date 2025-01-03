@@ -3,7 +3,7 @@ import Footer from "../../components/Footer/Footer";
 
 function About() {
   return (
-    <div className="bg-gray-100 lg:pt-[600px] mt-[40rem]">
+    <div className="bg-gray-100 lg:pt-[600px] ">
       {/* Header Section */}
       <section className="bg-cover bg-center h-[20vh] flex flex-col items-center justify-center text-black bg-[url('../../assets/about-banner.jpg')]">
         <h1 className="text-5xl font-bold mb-4">About Us</h1>

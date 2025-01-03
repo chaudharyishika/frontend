@@ -42,7 +42,7 @@ function ActivityDisplay() {
   };
 
   return (
-    <div className="bg-gray-100 lg:pt-[1000px]   min-h-screen">
+    <div className="bg-gray-100 lg:pt-[1000px] sm:pt-[500px] ">
       {/* Hero Section */}
       {/* Activities Slider Section */}
       <section className="py-8 sm:py-12 bg-white">
