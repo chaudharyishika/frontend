@@ -16,7 +16,7 @@ function ExploreDestination() {
   };
 
   return (
-    <div className="bg-gray-100 lg:pt-[800px] sm:pt-[400px]  mt-[60rem]">
+    <div className="bg-gray-100 lg:pt-[1000px] sm:pt-[400px]  mt-[60rem]">
       {/* Header Section */}
 
       {/* Destination List Section */}
